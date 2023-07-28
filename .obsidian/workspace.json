@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e865c3fc35d5fedb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-07-24 18.55.28.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "6fcaded23d408a8a",
             "type": "leaf",
             "state": {
@@ -52,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f5553f5ce63564d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIA 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +186,27 @@
   },
   "active": "417b8a2061aaec35",
   "lastOpenFiles": [
-    "dia2.py",
-    "dia2.py.md",
-    "DIA 2.md",
-    "README.md",
     "DIA 1.md",
+    "README.md",
     "Excalidraw/Drawing 2023-07-24 18.55.28.excalidraw.md",
-    "Excalidraw"
+    "DIA 2.md",
+    "DIA 3/Pandas_Cheat_Sheet.pdf",
+    "DIA 3/AI.pdf",
+    "DIA 3/TITANIC_class.ipynb",
+    "DIA 3/train.csv",
+    "DIA 3/test.csv",
+    "DIA 3/machine_learning_build.jpg",
+    "DIA 3/Solucion-Titanic.ipynb",
+    "DIA 3.md",
+    "DIA 3/snake clase 3/snake.js",
+    "DIA 3/snake clase 3/styles.css",
+    "DIA 3/snake clase 3/sketch.js",
+    "DIA 3/snake clase 3/index.html",
+    "DIA 3/snake clase 3/README.md",
+    "DIA 3/DIA 3.md",
+    "snake clase 3/README.md",
+    "snake-ai-main/README.md",
+    "DIA 4.md",
+    "dia2.py.md"
   ]
 }
